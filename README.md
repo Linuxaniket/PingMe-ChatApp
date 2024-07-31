@@ -1,4 +1,4 @@
-﻿# ChitChat-ChatAPP
+﻿# PingMe-ChatAPP
 
  Some Features:
 
@@ -10,8 +10,8 @@
 6. Error handling both on the server and on the client
 7. At the end Deployment using render.com
 
-😊For cloning the Repository:
-https://github.com/AasthaSingh28/ChitChat-ChatAPP.git
+For cloning the Repository:
+https://github.com/Linuxaniket/PingMe-ChatApp.git
 
 ✅Frontend:
 cd frontend
